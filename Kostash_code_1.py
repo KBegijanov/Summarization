@@ -4,4 +4,4 @@ summarizer = pipeline("text-summarization", model="SkolkovoInstitute/russian_tox
 
 result = summarizer ("токсичность зашкваливает")
 
-
+#проверяю редактирование и добавление комментария
