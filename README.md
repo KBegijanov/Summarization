@@ -5,3 +5,6 @@ You should put the text in the string in variable ARTICLE.
 
 #Kostash Denis; file Kostash_code_1.py; model toxic
 this code will check the toxicity of the text
+
+#Gilev Dmitry; Gilev_code_1; TTS;
+TTS is a Voice generation model that lets you clone voices into different languages by using just a quick 6-second audio clip.
